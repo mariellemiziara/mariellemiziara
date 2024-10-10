@@ -1,8 +1,8 @@
 # Marielle Miziara
 ## 🚀About Me
-Improving my skills in order to be a Full-Stack developer. Former Portuguese and English teacher.
+Improving my skills in order to be a Data Engineer. Former Translator and Portuguese and English teacher.
 
-🧠 I'm learning Java and Python.
+🧠 I'm learning Python and SQL.
 
 ⚡️ Post Graduated in Translation.
 
