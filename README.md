@@ -3,10 +3,15 @@
 I am transitioning from a career as a Translator and Language Educator to becoming a Data Analyst and Data Engineer. With a strong foundation in languages and a passion for problem-solving, I am continuously expanding my skill set in data analysis and engineering.
 
 🧠 Currently mastering Python and SQL
+
 ⚡️ Postgraduate degree in Translation
+
 ⚡️ Bachelor's in Languages (Portuguese and English)
+
 ⚡️ Completed a 480-hour Data Analyst Bootcamp
+
 🎓 Pursuing a Bachelor's in Accounting as a second degree
+
 🎓 Enrolled in an MBA in Data Engineering
 
 ## Connect with me
